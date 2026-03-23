@@ -1,0 +1,25 @@
+[project]
+name = "tronlink-wallet-recovery"
+version = "0.1.0"
+description = "Reference material for a TronLink wallet recovery workflow on Android"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "zygote-injection-toolkit",
+    "smart-recovery",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+]
+
+[tool.uv.workspace]
+members = ["zygote-injection-toolkit", "smart_recovery"]
+
+[tool.setuptools]
+py-modules = ["repro"]
+
+[tool.uv.sources]
+zygote-injection-toolkit = { workspace = true }
+smart-recovery = { workspace = true }

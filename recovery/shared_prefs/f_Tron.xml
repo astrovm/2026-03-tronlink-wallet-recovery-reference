@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="set_assetslist_key" />
+    <string name="system_tronscan_url">https://tronscan.org</string>
+    <string name="update_version_key&gt;">{&quot;code&quot;:0,&quot;data&quot;:{&quot;force&quot;:false,&quot;internal_apk_md5&quot;:&quot;&quot;,&quot;internal_apk_rsa&quot;:&quot;&quot;,&quot;internal_update_url&quot;:&quot;&quot;,&quot;internal_update_url_cn&quot;:&quot;&quot;,&quot;jump_google_play&quot;:true,&quot;statement&quot;:&quot;&quot;,&quot;strategy&quot;:&quot;1. Improve the UX for multi-signature transactions;\n2. Optimize the interaction for adding and removing tokens;\n3. Fixed known problems.&quot;,&quot;title&quot;:&quot;Discover new version V4.19.2&quot;,&quot;upgrade&quot;:false,&quot;url&quot;:&quot;&quot;,&quot;version&quot;:&quot;4.19.2&quot;}}</string>
+    <string name="set_mainnodelist_key__">[{&quot;chainName&quot;:&quot;MainChain&quot;,&quot;fullNode&quot;:[&quot;18.206.50.220:50051&quot;,&quot;44.205.88.94:50051&quot;,&quot;13.124.62.58:50051&quot;,&quot;43.198.147.230:50051&quot;,&quot;16.162.38.213:50051&quot;],&quot;isMainChain&quot;:1,&quot;serviceTime&quot;:0,&quot;solidityNode&quot;:[&quot;3.225.171.164:50061&quot;]}]</string>
+    <int name="system_crt_2020" value="0" />
+    <string name="ip">16.162.38.213:50051</string>
+    <string name="key_app_status_">{&quot;fina&quot;:false,&quot;hideFinancialTab&quot;:false,&quot;hideShieldManager&quot;:true,&quot;mainland&quot;:false}</string>
+    <string name="system_tronscan_dapp_url">https://dappchain.tronscan.org</string>
+    <string name="all_chain_key&gt;__">[{&quot;chainId&quot;:&quot;&quot;,&quot;chainName&quot;:&quot;MainChain&quot;,&quot;fullNode&quot;:&quot;16.162.38.213:50051&quot;,&quot;isMainChain&quot;:true,&quot;isSelect&quot;:true,&quot;solidityNode&quot;:&quot;3.225.171.164:50061&quot;}]</string>
+    <long name="port_sol" value="1000000" />
+</map>

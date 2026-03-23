@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="create_wallet__index" value="1" />
+    <string name="cached_sha1">D2:FE:27:94:84:CD:77:5D:CA:7A:71:BD:60:64:30:FE:76:2C:A5:9D</string>
+    <boolean name="has_read_user_agreement" value="true" />
+    <string name="key_app_language">{&quot;currency&quot;:[],&quot;language&quot;:[]}</string>
+    <string name="key_finance_singapore_url">https://financial.tronlink.org/</string>
+    <int name="key_finance_is_show_" value="1" />
+    <string name="key_app_config__">{&quot;financial&quot;:{&quot;financialShow&quot;:1,&quot;financialSingaporeUrl&quot;:&quot;https://financial.tronlink.org/&quot;,&quot;financialUrl&quot;:&quot;https://financial.tronlink.org/&quot;},&quot;gasFree&quot;:{&quot;claimUrl&quot;:&quot;https://gasfree.io/withdraw&quot;,&quot;urlList&quot;:[&quot;https://gasfree.io/&quot;,&quot;https://www.gasfree.io/&quot;,&quot;https://report.ablesdxd.link/&quot;]},&quot;nodes&quot;:{&quot;fullNode&quot;:[&quot;18.206.50.220:50051&quot;,&quot;44.205.88.94:50051&quot;,&quot;13.124.62.58:50051&quot;,&quot;43.198.147.230:50051&quot;,&quot;16.162.38.213:50051&quot;],&quot;solidityNode&quot;:[&quot;3.225.171.164:50061&quot;]},&quot;tronWeb&quot;:{&quot;tronWebHash&quot;:&quot;24c2e7eacfec70905071a9be6236af90&quot;,&quot;tronWebUrl&quot;:&quot;https://mtronweb.mixpanelink.org/mTronWeb-6.1.1-m-2.0.2.js&quot;,&quot;tronWebVersion&quot;:&quot;6.1.1&quot;}}</string>
+    <boolean name="has_show_the_safe_channel_pop" value="true" />
+    <long name="app_lock_background_time" value="1774066019570" />
+    <long name="maxDelegateLockPeriod_" value="30" />
+    <string name="is_insert_channel">4.19.2</string>
+    <int name="key_stake_expire_day_" value="14" />
+    <string name="trx_detail_filter_small_value_threshold_">0.5</string>
+    <string name="key_recently_wallet">[&quot;carlitosmenem991&quot;]</string>
+    <long name="cached_version_code" value="2012221365" />
+    <int name="key_stake_version_" value="2" />
+    <long name="key_current_version" value="2012221365" />
+    <string name="key_finance_us_url_">https://financial.tronlink.org/</string>
+</map>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="total_energy_weight_key" value="0" />
+    <long name="energy_used_key" value="0" />
+    <long name="total_net_weight_key" value="0" />
+    <long name="net_free_limit_key" value="0" />
+    <long name="net_free_used_key" value="0" />
+    <long name="net_used_key" value="0" />
+    <long name="energy_limit_key" value="0" />
+    <long name="total_net_limit_key" value="0" />
+    <long name="net_limit_key" value="0" />
+    <long name="total_energy_limit_key" value="0" />
+</map>

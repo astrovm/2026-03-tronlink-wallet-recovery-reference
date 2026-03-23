@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="wallet_mnemonicpath_key">{&quot;account&quot;:0,&quot;accountIndex&quot;:0,&quot;change&quot;:0,&quot;coinType&quot;:195,&quot;purpose&quot;:44}</string>
+    <int name="mnemonic_length&gt;" value="0" />
+    <string name="wallet_keystore_key">{&quot;address&quot;:&quot;413dc24eeeccee3ea44f12cf7543ad5a30b5fc04c7&quot;,&quot;crypto&quot;:{&quot;cipher&quot;:&quot;aes-128-ctr&quot;,&quot;cipherparams&quot;:{&quot;iv&quot;:&quot;18ed14948b0bd4230b828da74db9c016&quot;},&quot;ciphertext&quot;:&quot;cc8bab0bc8701e9af687a4b4b6b527f962de582efb029b507fc90cfc393ecfd5&quot;,&quot;kdf&quot;:&quot;scrypt&quot;,&quot;kdfparams&quot;:{&quot;dklen&quot;:32,&quot;n&quot;:16384,&quot;p&quot;:1,&quot;r&quot;:8,&quot;salt&quot;:&quot;2ef2a618edbf5185c6e7062a39d5dcdb81ba683dc2f8ca01ce8ed8c5959bb12c&quot;},&quot;mac&quot;:&quot;ffcf36eb0aaee16f676049a12307e247a868133dbd1d8c956cee6682f54b0704&quot;},&quot;id&quot;:&quot;18691da4-1250-4636-bcb8-a4a967e571a4&quot;,&quot;version&quot;:3}</string>
+    <int name="wallet_createtype_key" value="0" />
+    <int name="wallet_color_new_key" value="-1" />
+    <string name="wallet_address_key">TFbkzYHUvCVuybLKRQuDQmpNYw3HaViyvd</string>
+    <string name="wallet_icon_key">two</string>
+    <string name="pub_key">0480b3b0d6306e145ee45ccbff84cee22bc15f4612a4676b0654d4563a23c5df3248b4c0bfaf09c6bb1aa7f2ae67af615a404f76d919276a463c548f7e573ef329</string>
+    <string name="wallet_name_key">carlitosmenem991</string>
+    <boolean name="set_hasaccount_key" value="true" />
+    <boolean name="is_watch_only_setup_key" value="false" />
+    <long name="wallet_createtime_key" value="1774066004740" />
+    <boolean name="backup_key" value="false" />
+    <string name="wallet_newmnemonic_key">{&quot;address&quot;:&quot;413dc24eeeccee3ea44f12cf7543ad5a30b5fc04c7&quot;,&quot;crypto&quot;:{&quot;cipher&quot;:&quot;aes-128-ctr&quot;,&quot;cipherparams&quot;:{&quot;iv&quot;:&quot;181f93713843dbee1227cd4041dbc7e7&quot;},&quot;ciphertext&quot;:&quot;3e7f2984cb69df993644a56286a71b338f12fb4ac53c3911d9fd65c452d9ea9d038a64b3552c14211c4e40235a76dcd0de7b3fe8a4523ac5d687aa6d7e8a603e5d3f6184&quot;,&quot;kdf&quot;:&quot;scrypt&quot;,&quot;kdfparams&quot;:{&quot;dklen&quot;:68,&quot;n&quot;:16384,&quot;p&quot;:1,&quot;r&quot;:8,&quot;salt&quot;:&quot;270af9b40ab149ed4f536bfe6db7da3ba7ffb5395856eeb6257c0292cef066061dee2cf7b51b66462d5e645a1743e5f077492d997adc6e28665fbe4d93c733b89033e58b&quot;},&quot;mac&quot;:&quot;442694f8c2b5c88edd96cb298cbfe39356ff533f9b086f98eceae4744b2bd98b&quot;},&quot;id&quot;:&quot;462e18b9-1099-4517-86ad-c551abede611&quot;,&quot;version&quot;:3}</string>
+    <boolean name="isshield_key" value="false" />
+</map>

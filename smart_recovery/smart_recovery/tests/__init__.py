@@ -1,0 +1,1 @@
+"""Smart Recovery tests."""

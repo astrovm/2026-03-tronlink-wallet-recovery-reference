@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="not_nile_chain_notice_times" value="0" />
+    <boolean name="cold_key" value="false" />
+    <string name="id_firebase_token">eL0dRYmGSJm8aRvQbi-EyI:APA91bGZt514hwUiZZyXi9UQvxZF4SQuF7BmJ_cCIaU0VcoSy-059lIT4gTrrYylqX2dY8EWmQhur1A4e7GLhpsvgVFzCUxN-ur22ZQJYVJxI1bssyFZIeI</string>
+    <float name="new_price_keyCny" value="2.1286023" />
+    <boolean name="is_first" value="false" />
+    <string name="selected_wallet_key">carlitosmenem991</string>
+    <string name="language_key">1</string>
+    <string name="key_gas_free_param_">{&quot;bannerBackcolor&quot;:&quot;F7F8FA&quot;,&quot;bannerCn&quot;:&quot;GasFree 转 U，免 TRX，手续费最高省 60%，秒到账！&quot;,&quot;bannerEn&quot;:&quot;Up to 60% off USDT Transfer Fees with GasFree, No TRX Needed, Fast Delivery!&quot;,&quot;bannerEnable&quot;:1,&quot;bannerHideDuration&quot;:&quot;24&quot;,&quot;bannerIcon&quot;:&quot;https://image.mixpanelink.org/gasfee_icon.png&quot;,&quot;tronShow&quot;:true}</string>
+    <set name="wallets_key">
+        <string>carlitosmenem991</string>
+    </set>
+    <boolean name="ID_reset_wallet_flag" value="true" />
+    <string name="mac_address">c4be5fc4-e8d3-4735-8ecd-8e2e4a4df9a8</string>
+    <string name="key_app_config_validate_address__">TRSxcidhd7tQzEJk6x6qStkevbk6X5bCuz</string>
+    <string name="dappjs_key"></string>
+    <string name="dappjs_output_key_">{&quot;code&quot;:0,&quot;data&quot;:{&quot;accountActiveFeeParams&quot;:{&quot;baseActiveFee&quot;:&quot;0.1&quot;,&quot;dappBaseActiveFee&quot;:&quot;0.1&quot;,&quot;dappExtraActiveFee&quot;:&quot;0&quot;,&quot;dappFeeBandwidth&quot;:&quot;0.000010&quot;,&quot;extraActiveFee&quot;:&quot;1&quot;,&quot;feeBandwidth&quot;:&quot;0.001&quot;,&quot;feeEnergy&quot;:&quot;0.0001&quot;,&quot;freeNetLimit&quot;:&quot;600&quot;,&quot;memoFee&quot;:&quot;1000000&quot;,&quot;triggerType&quot;:2},&quot;balanceLimit&quot;:{&quot;assetThousandthLimit&quot;:1.0,&quot;assetValueLimit&quot;:1.0,&quot;balanceContract&quot;:&quot;TX56WKxtja91Dybf2FdN4hZbDLyKVxxhAu&quot;,&quot;nftCountLimit&quot;:1},&quot;dappScore&quot;:{&quot;dappAccess&quot;:1,&quot;dappSign&quot;:15,&quot;walletConnect&quot;:10,&quot;wane&quot;:1},&quot;gasFree&quot;:{&quot;bannerBackcolor&quot;:&quot;F7F8FA&quot;,&quot;bannerCn&quot;:&quot;GasFree 转 U，免 TRX，手续费最高省 60%，秒到账！&quot;,&quot;bannerEn&quot;:&quot;Up to 60% off USDT Transfer Fees with GasFree, No TRX Needed, Fast Delivery!&quot;,&quot;bannerEnable&quot;:1,&quot;bannerHideDuration&quot;:&quot;24&quot;,&quot;bannerIcon&quot;:&quot;https://image.mixpanelink.org/gasfee_icon.png&quot;,&quot;tronShow&quot;:true},&quot;stop&quot;:{&quot;currency&quot;:[],&quot;lang&quot;:[]},&quot;swapFee&quot;:{&quot;v1&quot;:&quot;0.3%&quot;,&quot;v2&quot;:&quot;0.3%&quot;,&quot;old3pool&quot;:&quot;0.04%&quot;,&quot;oldusdcpool&quot;:&quot;0.04%&quot;,&quot;usdc2pooltusdusdt&quot;:&quot;0.01%&quot;,&quot;usdd2pooltusdusdt&quot;:&quot;0.01%&quot;,&quot;usdj2pooltusdusdt&quot;:&quot;0.01%&quot;,&quot;usdtpsm&quot;:&quot;0&quot;,&quot;usdcpsm&quot;:&quot;0&quot;,&quot;tusdpsm&quot;:&quot;0&quot;,&quot;usdjpsm&quot;:&quot;0&quot;,&quot;2pool&quot;:&quot;0.04%&quot;,&quot;2pooltusdusdt&quot;:&quot;0.01%&quot;},&quot;swapParams&quot;:{&quot;justFee&quot;:&quot;0.003&quot;},&quot;transferCost&quot;:{&quot;energyCost&quot;:20000,&quot;netCost&quot;:345},&quot;version&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;filterSmall&quot;:&quot;0.5&quot;,&quot;iosVersion&quot;:&quot;4.19.4&quot;,&quot;stakeEnable&quot;:1,&quot;stakeExpireDay&quot;:14}},&quot;message&quot;:&quot;OK&quot;}</string>
+    <float name="new_price_keyUsd" value="0.30899674" />
+</map>
