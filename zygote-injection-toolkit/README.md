@@ -98,6 +98,6 @@ At that point you have a forwarded listener on `127.0.0.1:1234` with a shell run
 
 ## Related docs
 
-- Full write-up: [`../tronlink_wallet_recovery_case.md`](../tronlink_wallet_recovery_case.md)
+- Full write-up: [Recovering a TRON wallet with an Android exploit and brute force](https://4st.li/blog/tronlink-wallet-recovery/)
 - Step-by-step guide: [`../step_by_step.md`](../step_by_step.md)
 - Repo-specific wrapper: [`../repro.py`](../repro.py)

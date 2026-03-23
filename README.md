@@ -1,6 +1,6 @@
 # TronLink Wallet Recovery Reference
 
-Reference material for the TronLink wallet recovery case described in the article:
+Reference material for the TronLink wallet recovery case described in my blog:
 
 **[Recovering a TRON wallet with an Android exploit and brute force](https://4st.li/blog/tronlink-wallet-recovery/)**
 

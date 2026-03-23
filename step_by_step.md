@@ -2,7 +2,7 @@
 
 Shortest reproducible path through the safe lab example bundled with this repository.
 
-For the full narrative with reasoning and screenshots, read [`tronlink_wallet_recovery_case.md`](tronlink_wallet_recovery_case.md).
+For the full narrative with reasoning and screenshots, read the [blog post](https://4st.li/blog/tronlink-wallet-recovery/).
 
 ## Prerequisites
 
@@ -157,6 +157,6 @@ adb shell getprop sys.boot_completed
 
 ## Related docs
 
-- Full write-up: [`tronlink_wallet_recovery_case.md`](tronlink_wallet_recovery_case.md)
+- Full write-up: [Recovering a TRON wallet with an Android exploit and brute force](https://4st.li/blog/tronlink-wallet-recovery/)
 - Password recovery details: [`smart_recovery/README.md`](smart_recovery/README.md)
 - Zygote injection details: [`zygote-injection-toolkit/README.md`](zygote-injection-toolkit/README.md)
