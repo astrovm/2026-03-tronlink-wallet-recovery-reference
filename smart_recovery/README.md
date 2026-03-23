@@ -63,9 +63,9 @@ If targeted families are exhausted, the planner appends brute-force shards:
 
 State lives under `runtime/`:
 
-- `recovery_state.json` — work-unit metadata, status transitions, cracked result
-- `wordlists/` — materialized candidate lists
-- `sessions/` — Hashcat session files for pause/resume
+- `recovery_state.json` - work-unit metadata, status transitions, cracked result
+- `wordlists/` - materialized candidate lists
+- `sessions/` - Hashcat session files for pause/resume
 
 ## Bundled examples
 

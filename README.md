@@ -38,7 +38,7 @@ The workflow covers two connected problems:
 
 ## How it works
 
-On the Android side, the hard part is not getting a shell — it's getting a process that Android treats as the target app, with access to its private storage. A higher-privilege shell alone is often not enough because SELinux and mount namespaces block access to `/data/data/<package>`.
+On the Android side, the hard part is not getting a shell, it's getting a process that Android treats as the target app, with access to its private storage. A higher-privilege shell alone is often not enough because SELinux and mount namespaces block access to `/data/data/<package>`.
 
 On the offline side, the hard part is not running Hashcat forever. The useful path is to extract encrypted material into a verifiable offline format, spend the first search budget on human-generated password families, and widen into brute force only after those are exhausted.
 

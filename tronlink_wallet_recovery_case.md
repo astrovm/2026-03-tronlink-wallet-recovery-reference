@@ -1,6 +1,6 @@
 +++
 title = "Recuperando una wallet de TRON con un exploit de Android y fuerza bruta"
-date = "2026-03-21T03:00:00-03:00"
+date = "2026-03-22T03:00:00-03:00"
 readingTime = true
 +++
 
@@ -274,6 +274,6 @@ Si cualquiera de esas cosas hubiera sido diferente, la plata seguiría ahí trab
 - [Android Security Bulletin junio 2024](https://source.android.com/docs/security/bulletin/2024-06-01)
 - [CVE-2024-31317 en NVD](https://nvd.nist.gov/vuln/detail/CVE-2024-31317)
 - [Patch de AOSP](https://android.googlesource.com/platform/frameworks/base/+/e25a0e394bbfd6143a557e1019bb7ad992d11985)
-- [Repo del caso con ejemplo y herramientas](https://github.com/astrovm/cve-2024-31317)
 - [Recopilación sobre CVE-2024-31317 en GitHub](https://github.com/agg23/cve-2024-31317)
 - [Zygote Injection Toolkit](https://github.com/Anonymous941/zygote-injection-toolkit)
+- [Repo de este caso con ejemplo y herramientas](https://github.com/astrovm/2026-03-tronlink-wallet-recovery-reference)
