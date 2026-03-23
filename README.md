@@ -1,6 +1,8 @@
 # TronLink Wallet Recovery Reference
 
-Reference material for a TronLink wallet recovery workflow on Android.
+Reference material for the TronLink wallet recovery case described in the article:
+
+**[Recovering a TRON wallet with an Android exploit and brute force](https://4st.li/blog/tronlink-wallet-recovery/)**
 
 The workflow covers two connected problems:
 
@@ -14,7 +16,6 @@ The workflow covers two connected problems:
 
 | File | Purpose |
 | --- | --- |
-| [`tronlink_wallet_recovery_case.md`](tronlink_wallet_recovery_case.md) | Full narrative write-up with decisions, commands, and outputs |
 | [`step_by_step.md`](step_by_step.md) | Minimal command-by-command replication guide |
 | [`smart_recovery/README.md`](smart_recovery/README.md) | Offline password recovery orchestration |
 | [`zygote-injection-toolkit/README.md`](zygote-injection-toolkit/README.md) | Lower-level Zygote injection details |
@@ -23,7 +24,6 @@ The workflow covers two connected problems:
 
 ```text
 .
-├── tronlink_wallet_recovery_case.md   # main case write-up
 ├── step_by_step.md                    # compact replication guide
 ├── repro.py                           # app-targeted Zygote acquisition helper
 ├── target.hash                        # Hashcat-ready keystore hash (safe example)
